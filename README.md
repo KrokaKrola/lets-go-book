@@ -1,1 +1,1 @@
-# lets-go-book
+# Let's GO book 2nd edition
